@@ -4,7 +4,8 @@
 
 /**
  *
- * main - Entry point
+ * main - Get a random number and print whether it is negative, positive
+ * or equal to the number
  * return: 0 (Success)
  */
 
