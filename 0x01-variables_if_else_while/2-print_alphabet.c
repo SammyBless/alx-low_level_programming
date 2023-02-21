@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <unistd.h>
 
 /**
- * print_alphabet - a function that prints the alphabet, in lowercase
+ * main -Entry point
+ * Description: - a function that prints the alphabet, in lowercase
  *
  * Return: Always 0 (Succes)
  */
@@ -14,5 +16,7 @@ int main(void)
 		_putchar(n);
 	}
 	_putchar('\n');
+return (0);
+
 }
 
